@@ -2,13 +2,6 @@
 
 A simple and fun memory card matching game built with **HTML**, **CSS**, and **JavaScript**. Flip the cards, find matching emoji pairs, and test your memory!
 
-## 📸 Preview
-
-![Game Screenshot](./image/mindblownface.png)  
-*Try to match all emoji pairs with the fewest moves possible!*
-
----
-
 ## 🚀 Features
 
 - Flip card animation
